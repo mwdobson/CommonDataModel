@@ -9,7 +9,7 @@ output:
 ---
 
 # How to Use this Repository
-
+TEST
 If you are looking for the SQL DDLs and don't wish to generate them through R, they can be accessed [here](https://github.com/OHDSI/CommonDataModel/tree/v5.4.0/inst/ddl/5.4).
 
 If you are looking for information on how to submit a bugfix, skip to the [next section](https://github.com/OHDSI/CommonDataModel#bug-fixesmodel-updates)
